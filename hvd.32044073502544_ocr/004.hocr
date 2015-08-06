@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/138/hvd.32044073502544/004.png"; bbox 0 0 4084 6202; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1682 1370 2248 1460">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1682 1370 2248 1460">
+     <span class='ocr_line' id='line_1_1' title="bbox 1682 1370 2248 1460; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1682 1370 1861 1459; x_wconf 79' lang='lat' dir='ltr'>THIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1918 1370 2248 1460; x_wconf 46' lang='grc' dir='ltr'>νεωμτὶ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1512 1503 2422 1597">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1512 1503 2422 1597">
+     <span class='ocr_line' id='line_1_2' title="bbox 1512 1503 2422 1597; baseline 0.002 -6"><span class='ocrx_word' id='word_1_3' title='bbox 1512 1503 1716 1593; x_wconf 70' lang='lat' dir='ltr'>DOES</span> <span class='ocrx_word' id='word_1_4' title='bbox 1776 1508 1931 1593; x_wconf 76' lang='lat' dir='ltr'>NOT</span> <span class='ocrx_word' id='word_1_5' title='bbox 1984 1504 2422 1597; x_wconf 70' lang='lat' dir='ltr'>CIRCULATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1504 1638 2435 1729">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1504 1638 2435 1729">
+     <span class='ocr_line' id='line_1_3' title="bbox 1504 1638 2435 1729; baseline 0.005 -5"><span class='ocrx_word' id='word_1_6' title='bbox 1504 1638 1844 1727; x_wconf 78' lang='lat' dir='ltr'>OUTSIDE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1898 1641 2045 1728; x_wconf 70' lang='grc' dir='ltr'>Πὲὶ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2102 1642 2435 1729; x_wconf 55' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>

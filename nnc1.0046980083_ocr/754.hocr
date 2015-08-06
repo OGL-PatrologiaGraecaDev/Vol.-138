@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/138/nnc1.0046980083/754.png"; bbox 0 0 2104 3221; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1340 223 1651 246">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1340 223 1651 246">
+     <span class='ocr_line' id='line_1_1' title="bbox 1340 223 1651 246; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 1340 226 1470 246; x_wconf 65' lang='lat' dir='ltr'><strong>COLUMNA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1478 223 1623 245; x_wconf 72' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1631 223 1651 243; x_wconf 88' lang='lat' dir='ltr'>LI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1362 246 1669 390">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1362 246 1669 390">
+     <span class='ocr_line' id='line_1_2' title="bbox 1362 246 1669 390; baseline -0.01 -20"><span class='ocrx_word' id='word_1_4' title='bbox 1362 246 1669 370; x_wconf 51' lang='lat' dir='ltr'><strong>mummium</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1553 335 1666 368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1553 335 1666 368">
+     <span class='ocr_line' id='line_1_3' title="bbox 1553 335 1666 368; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 1553 335 1666 368; x_wconf 91' lang='lat'><strong>80083</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1670 221 1760 242">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1670 221 1760 242">
+     <span class='ocr_line' id='line_1_4' title="bbox 1670 221 1760 242; baseline -0.011 0"><span class='ocrx_word' id='word_1_6' title='bbox 1670 221 1760 242; x_wconf 79' lang='lat' dir='ltr'><strong>RARIES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1707 245 1711 332">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1707 245 1711 332">
+     <span class='ocr_line' id='line_1_5' title="bbox 1707 245 1711 332; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1707 245 1711 332; x_wconf 84' lang='grc' dir='ltr'><strong>Ι</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
